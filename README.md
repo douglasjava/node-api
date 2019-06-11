@@ -10,7 +10,7 @@ Run `npm run dev` for a dev server. Navigate to `http://localhost:3001/`. The ap
 
 Run `npm install` or `yarn add` to generate a new component.
 
-Made in the [Hands-on React Native](https://www.rocketseat.com.br/) course by [Diego Fernandes](https://github.com/Rocketseat) / (https://github.com/diego3g)
+Made in the [NODE](https://www.rocketseat.com.br/) course by [Diego Fernandes](https://github.com/diego3g)
 
 Author: [Douglas Dias](https://github.com/douglasjava)
 
